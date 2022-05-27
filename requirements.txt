@@ -1,0 +1,9 @@
+subprocess
+requests
+time
+os
+aiohttp
+pywin32
+pypresence
+plyer
+colorama
