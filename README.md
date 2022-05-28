@@ -11,4 +11,5 @@ Best Roblox Group Fucker tool out there
 4. Then open up `config.json` decide whether you want a discord rich presence or not.
 5. lastly run `py GroupFucker.py` and you are done.
 
+#
 ## DM _Jake\_#4802 for whitelist
