@@ -4,7 +4,7 @@ Roblox Group Fucker
 #
 Best Roblox Group Fucker tool out there
 #
-##Instructions
+## Instructions
 1. `cd` into the folder
 2. install the modules - `pip install -r requirements.txt`
 3. Once the modules are installed, put your roblox cookie in `cookie.txt` file then save that file.
